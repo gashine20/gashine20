@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 --> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
