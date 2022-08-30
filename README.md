@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img alt="이미지명" src ="https://img.shields.io/badge/Notion-#000000.svg?&style=for-the-badge&logo=Notion&logoColor=#000000"/>
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
