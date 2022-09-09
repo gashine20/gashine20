@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm currently learning a lot of different languages and growing up 🌱
+### I'm currently learning different languages and growing up 🌱
 
 ## 💪 Languages 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
