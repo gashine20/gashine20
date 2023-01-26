@@ -4,6 +4,9 @@
 ## 💪 Languages 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
 
+![Ga-Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dracula)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlrkgus000)](https://solved.ac/dlrkgus000)
+
 <!--
 **Ga-Long/Ga-Long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
