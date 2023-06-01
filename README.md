@@ -1,8 +1,8 @@
 <div align="center">
-### Hello I'm Ga-Long 👋
-### I'm currently studying different languages and growing up 🌱
+  <h1>Hello I'm Ga-Long 👋</h1>
+  <h2>I'm currently studying different languages and growing up 🌱</h2>
 
-## 💪 Languages 
+  <h3> 💪 Languages </h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ga-Long&layout=compact)](https://github.com/Ga-Long/github-readme-stats) <br/><br/>
