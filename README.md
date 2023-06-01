@@ -2,8 +2,11 @@
 ### I'm currently learning different languages and growing up 🌱
 
 ## 💪 Languages 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Android-6DB33F?style=flat-square&logo=Android&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Android&logoColor=white"/> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlrkgus000&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=dlrkgus000&show_icons=true">
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrkgus000)](https://solved.ac/dlrkgus000/)
 
