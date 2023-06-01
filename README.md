@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text="Ga-Long Github"&fontSize=90" />
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text="Ga-Long Github"&fontSize=90" )
 ### Hi there 👋
 ### I'm currently learning different languages and growing up 🌱
 
