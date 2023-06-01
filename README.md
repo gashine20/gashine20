@@ -2,10 +2,10 @@
 ### I'm currently learning different languages and growing up 🌱
 
 ## 💪 Languages 
-<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Android&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlrkgus000&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=dlrkgus000&show_icons=true">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlrkgus000&layout=compact)](https://github.com/dlrkgus000/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlrkgus000&show_icons=true&theme=radical)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrkgus000)](https://solved.ac/dlrkgus000/)
