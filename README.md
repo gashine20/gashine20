@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ga-Long&layout=compact)](https://github.com/Ga-Long/github-readme-stats) <br/><br/>
-![GaShine's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaShine&show_icons=true&theme=radical)
+![Ga-Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ga-Long&show_icons=true&theme=radical)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrkgus000)](https://solved.ac/dlrkgus000/)
