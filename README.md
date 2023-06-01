@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text="Ga-Long Github"&fontSize=90" />
+
 ### Hi there 👋
 ### I'm currently learning different languages and growing up 🌱
 
@@ -11,6 +13,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrkgus000)](https://solved.ac/dlrkgus000/)
 
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 <!--
 **Ga-Long/Ga-Long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
