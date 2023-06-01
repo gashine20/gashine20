@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello I'm Ga-Long 👋</h1>
-  <h2>I'm currently studying different languages and growing up 🌱</h2>
+  <h3>I'm currently studying different languages and growing up 🌱</h3>
 
   <h3> 💪 Languages </h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
