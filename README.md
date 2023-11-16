@@ -2,6 +2,8 @@
   <h1>Hello I'm Ga-Long 👋</h1>
   <h3>I'm currently studying different languages and growing up 🌱</h3>  <br/>
 
+![](https://visitor-badge.glitch.me/badge?page_id=Ga-Long)  
+
   <h3> 💪 Languages </h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <br/><br/>
 
