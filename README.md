@@ -57,7 +57,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ga-Long&layout=compact)](https://github.com/Ga-Long/github-readme-stats) <br/><br/>
 
 <!-- 깃허브 stats-->
-![Ga-Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ga-Long&show_icons=true&theme=tokyonight)
+<!-- ![Ga-Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ga-Long&show_icons=true&theme=tokyonight) -->
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrkgus000)](https://solved.ac/dlrkgus000/) -->
 
