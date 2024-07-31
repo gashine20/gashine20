@@ -12,22 +12,23 @@
 
 <!-- 자기 소개 -->
 <div align="left">
-  <h3>I'm currently studying different languages and growing up 🌱</h3>  <br/>
+  
 
-
+<!-- 사용 -->
 <h3> ⚒️ Use </h3>
-  <p><strong>Language</strong></p>
-  <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  </div>
+<p><strong>Front-End</strong></p> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </br>
 
-  <p><strong>Framework</strong></p>
+  <p><strong>Back-End</strong></p>
   <div>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
         <img src="https://img.shields.io/badge/Django-7F52FF?style=for-the-badge&logo=Django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   </div>
 </br>
 
