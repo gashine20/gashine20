@@ -1,8 +1,6 @@
 <h1>이가현 Gahyeon Lee</h1>
 <div>
-  
-<!-- 방문자 수 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGa-Long&count_bg=%23976DDF&title_bg=%235A5A5A&icon=baidu.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 </div>
 
