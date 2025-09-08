@@ -7,7 +7,10 @@
 
 <h2>Work experience</h2>
 <div>
-  • (24.06 ~ 25.02) 어베어 Robust Web Crawling & Data Harvesting Engineer 인턴  
+  • (24.09 ~ 25.02) 어베어 Robust Web Crawling & Data Harvesting Engineer 인턴  
+</div>
+<div>
+  • (24.01 ~ 24.02) 졸업 시즌 '온라인 칠판 편지' 서비스 출시
 </div>
 <div>
   • (23.01 ~ 24.01) 딥러닝을 이용한 손글씨 음향신호 인식 기술 개발 | 공개 SW 개발자 대회 은상 수상 & HCI 학회 참여
