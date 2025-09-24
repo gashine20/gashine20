@@ -1,11 +1,7 @@
-<h1>이가현 Gahyeon Lee</h1>
-<div>
 
 
-</div>
 
-
-<h2>Work experience</h2>
+<!-- <h2>Work experience</h2>
 <div>
   • (24.09 ~ 25.02) 어베어 Robust Web Crawling & Data Harvesting Engineer 인턴  
 </div>
@@ -21,47 +17,32 @@
 <div>
   • (22.02 ~ 22.12) 멋쟁이 사자처럼 10기 프론트엔드 운영진  
 </div>
-</br>
+</br> -->
 
 <!-- 자기 소개 -->
-<div align="left">
+<div align="center">
   
 
 <!-- 사용 -->
-<h3> 💻  Tech Stack </h3>
-  <p><strong>Back-End</strong></p>
+
+
   <div>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <!--         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> -->
         <img src="https://img.shields.io/badge/Django-7F52FF?style=flat-square&logo=Django&logoColor=white"/>
   </div>
-</br>
-
-<p><strong>Front-End</strong></p> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>&nbsp
-</br>
-</br>
 
 
-  <p><strong>Database</strong></p>
+
   <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 
   </div>
-</br>
 
 
 </div>
 
-
-
-## 📫  Contact 
-
-<div>
-    <a href="mailto:000rkgus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=000rkgus@gmail.com"/></a>
-</div>
 
 
 <!--
