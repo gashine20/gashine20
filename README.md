@@ -1,5 +1,21 @@
 
 
+<div align="center">
+  <!-- <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/gashine20"/>
+  </a> -->
+  
+  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gashine20&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/gashine20?pet-id=793393679026445311"
+    width="600"
+    height="120"
+  />
+</a>
+  
+</div>
+
 
 <!-- <h2>Work experience</h2>
 <div>
@@ -27,15 +43,15 @@
 
 
   <div>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<!--         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> -->
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-7F52FF?style=flat-square&logo=Django&logoColor=white"/>
   </div>
 
 
 
   <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 
   </div>
